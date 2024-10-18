@@ -5,15 +5,7 @@
  </head>
  <body>
  
-           < font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            color: #333;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center>
- 
+          
 <h1> A Love Letter to Zane</h1>
 <br>
 <h2>Dear Zane</h2>
